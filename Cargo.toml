@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "kernel_keyring",
+    "pam_sm_rust",
+]

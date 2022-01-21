@@ -1,0 +1,3 @@
+[submodule "pam_sm_rust"]
+	path = pam_sm_rust
+	url = https://github.com/Aetf/pam_sm_rust.git
